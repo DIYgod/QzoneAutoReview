@@ -8,7 +8,7 @@ QQ空间自动评论
 
 Giuem http://www.giuem.com/
 
-其他
+说明
 ----------------
 
 http://www.giuem.com/qzone-comment-php/

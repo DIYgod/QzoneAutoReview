@@ -8,7 +8,9 @@ QQ空间自动评论
 
 Giuem http://www.giuem.com/
 
-首发
+其他
 ----------------
+
+http://www.giuem.com/qzone-comment-php/
 
 http://www.anotherhome.net/1551
